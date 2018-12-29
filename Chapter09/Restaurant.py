@@ -12,11 +12,11 @@ class Restaurant():
         print(self.restaurant_name.title() + " is now open!")
 
 
-restaurant = Restaurant('atutiplen', 'seafood')
+# restaurant = Restaurant('atutiplen', 'seafood')
 
-print(restaurant.restaurant_name)
-print(restaurant.cuisine_type)
+# print(restaurant.restaurant_name)
+# print(restaurant.cuisine_type)
 
-restaurant.describe_restaurant()
+# restaurant.describe_restaurant()
 
-restaurant.open_restaurant()
+# restaurant.open_restaurant()
