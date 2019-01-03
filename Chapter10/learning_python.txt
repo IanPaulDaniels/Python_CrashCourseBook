@@ -1,0 +1,4 @@
+In Python you can open text files with the Open() function.
+In Python you can create lists and dictionaries.
+In Python you can create variables.
+In Python you can do anything!
